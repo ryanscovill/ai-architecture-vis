@@ -1,0 +1,5 @@
+{
+  "name": "Architectural Visualizer AI",
+  "description": "A tool that creates photorealistic architectural visualizations from 2D floor plans or basic 3D models using AI. Users can specify materials, lighting, environment, and architectural style via text prompts to generate high-fidelity renderings in seconds.",
+  "requestFramePermissions": []
+}
